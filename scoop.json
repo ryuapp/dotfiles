@@ -1,0 +1,107 @@
+{
+    "apps": [
+        {
+            "Name": "7zip",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:32:05.2265712+09:00",
+            "Version": "24.08"
+        },
+        {
+            "Name": "bat",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-08-24T00:26:34.1982122+09:00",
+            "Version": "0.24.0"
+        },
+        {
+            "Name": "bun",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:32:18.4090958+09:00",
+            "Version": "1.1.33"
+        },
+        {
+            "Name": "deno",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:32:23.7788453+09:00",
+            "Version": "2.0.4"
+        },
+        {
+            "Name": "erlang",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:33:06.1902396+09:00",
+            "Version": "27.1.2"
+        },
+        {
+            "Name": "eza",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:33:08.9869318+09:00",
+            "Version": "0.20.5"
+        },
+        {
+            "Name": "fd",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-31T00:12:14.0687564+09:00",
+            "Version": "10.2.0"
+        },
+        {
+            "Name": "gleam",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:33:11.4690669+09:00",
+            "Version": "1.5.1"
+        },
+        {
+            "Name": "go",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:34:25.4343979+09:00",
+            "Version": "1.23.2"
+        },
+        {
+            "Name": "me",
+            "Info": "",
+            "Source": "https://raw.githubusercontent.com/ryuapp/me/main/me.json",
+            "Updated": "2024-06-16T02:55:19.8475209+09:00",
+            "Version": "0.1.4"
+        },
+        {
+            "Name": "nodejs",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-27T16:25:03.0885104+09:00",
+            "Version": "23.1.0"
+        },
+        {
+            "Name": "rust",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-10-30T23:39:23.988686+09:00",
+            "Version": "1.82.0"
+        },
+        {
+            "Name": "zig",
+            "Info": "",
+            "Source": "main",
+            "Updated": "2024-06-30T14:56:04.5989209+09:00",
+            "Version": "0.13.0"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": "2024-10-30T21:32:30+09:00",
+            "Manifests": 1344
+        }
+    ],
+    "config": {
+        "scoop_repo": "https://github.com/ScoopInstaller/Scoop",
+        "scoop_branch": "master"
+    }
+}
